@@ -1,0 +1,1 @@
+My (virtual enviroment) venv is been ignored by my .gitignore file, but I know how to use them. I taught it was a bad practice include them instead of a requirements file, so that is why I did not uploaded it
